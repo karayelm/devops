@@ -1,4 +1,4 @@
 # devops
 Git eğitim
 devammmmm
-kesinlike
+kesinlike      olmadı 
